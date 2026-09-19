@@ -1,7 +1,7 @@
 {
-  "id": "com.example.my_mod",
-  "name": "My Mod",
+  "id": "com.aethene.playasventus",
+  "name": "Play as Ventus",
   "version": "1.0.0",
-  "author": "You",
-  "description": "An example Dusklight mod"
+  "author": "Aethene",
+  "description": "Converting a cartoon character to semi realism sucks kinda"
 }
